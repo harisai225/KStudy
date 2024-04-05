@@ -1,0 +1,9 @@
+node_modules/
+
+Datas/
+
+.env
+
+.vscode
+
+.log
